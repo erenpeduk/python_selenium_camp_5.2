@@ -1,5 +1,14 @@
 
 6 adet önceki ödevden kalma teslterin PyTest uyumlu hali ve 3 adet kendi oluşturduğum testlerin ekran görüntüsü
+1) test-product-detail-and-add-standard_user-secret_sauce
+2) test-product-detail-standard_user-secret_sauce
+3) test-add-standard_user-secret_sauce
+4) test-invalid-login
+5) test-invalid-login2-standard_user-secret_sauce
+6) test-invalid-login-locked_out_user-secret_sauce
+7) test-invalid-login-standard_user
+8) test-invalid-login-standard_user-secret_sauce
+9) test-item-number-standard_user-secret_sauce
 
 ![test-product-detail-and-add-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393154-f24b37ac-17f4-41e4-8de2-e4a14057a50d.png)
 ![test-product-detail-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393158-95d5403f-6d3f-496c-9714-7319e3aea669.png)
