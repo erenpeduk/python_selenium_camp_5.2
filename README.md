@@ -1,4 +1,7 @@
-# python_selenium_camp_5.2![test-product-detail-and-add-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393154-f24b37ac-17f4-41e4-8de2-e4a14057a50d.png)
+
+6 adet önceki ödevden kalma teslterin PyTest uyumlu hali ve 3 adet kendi oluşturduğum testlerin ekran görüntüsü
+
+![test-product-detail-and-add-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393154-f24b37ac-17f4-41e4-8de2-e4a14057a50d.png)
 ![test-product-detail-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393158-95d5403f-6d3f-496c-9714-7319e3aea669.png)
 ![test-add-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393161-4b234c95-7f0f-4cf9-a2ff-6e4cd9effd2a.png)
 ![test-invalid-login--](https://user-images.githubusercontent.com/83478932/228393165-cb3401cf-5f71-4378-adc1-cf9e4eab07ce.png)
@@ -7,3 +10,4 @@
 ![test-invalid-login-standard_user-](https://user-images.githubusercontent.com/83478932/228393172-29e920c5-c66b-4720-a53c-1b5eb11c7748.png)
 ![test-invalid-login-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393174-20b18964-635c-4d0f-8e15-51b196e9923c.png)
 ![test-item-number-standard_user-secret_sauce](https://user-images.githubusercontent.com/83478932/228393177-7cb23638-ba91-411b-ad1c-b40436c4ae57.png)
+
