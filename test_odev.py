@@ -196,39 +196,5 @@ class Test_OdevClass:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-    
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
     def waitForElementVisible(self,locator):
         WebDriverWait(self.driver,5).until(ec.visibility_of_element_located(locator))
